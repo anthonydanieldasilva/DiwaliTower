@@ -4293,7 +4293,7 @@ img.u-pull-left {
 		top: -50;
 		left: 50%;
         margin-top: 100px;
-		margin-left: -18px;
+		margin-left: -30px;
 		animation-name: bounce;
 		animation-duration: 1s;
 		animation-iteration-count: infinite;
@@ -4308,8 +4308,8 @@ img.u-pull-left {
 		margin-top: -25px;
 	}
 	.scroll-prompt-arrow > div {
-        width: 56px;
-		height: 56px;
+        width: 55px;
+		height: 55px;
 		border-right: 8px solid #f0f0f0;
 		border-bottom: 8px solid #f0f0f0;
 		transform: rotate(45deg) translateZ(2px);
