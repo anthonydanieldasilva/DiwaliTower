@@ -4270,10 +4270,10 @@ img.u-pull-left {
 /* --------------ANTHONY MAYO */
 
 .tituloPrincipal {
-    padding-bottom: 15cm;
+    padding-bottom: 35cm;
     font-family: "Oswald", sans-serif;
-    font-size: 6rem;
-    font-weight: 180;
+    font-size: 7rem;
+    font-weight: 200;
     text-shadow: 1px 1px 2px rgb(44, 44, 44);
 }
 
@@ -4300,19 +4300,19 @@ img.u-pull-left {
 	}
 	.scroll-prompt-arrow {
 		animation-name: opacity;
-		animation-duration: 1.5s;
+		animation-duration: 1s;
 		animation-iteration-count: infinite;
 	}
 	.scroll-prompt-arrow:last-child {
 		animation-direction: reverse;
-		margin-top: -6px;
+		margin-top: -25px;
 	}
 	.scroll-prompt-arrow > div {
-        width: 36px;
-		height: 36px;
-		border-right: 8px solid #0e0d0d;
-		border-bottom: 8px solid #161616;
-		transform: rotate(45deg) translateZ(1px);
+        width: 56px;
+		height: 56px;
+		border-right: 8px solid #f0f0f0;
+		border-bottom: 8px solid #f0f0f0;
+		transform: rotate(45deg) translateZ(2px);
 	}
 }
 
