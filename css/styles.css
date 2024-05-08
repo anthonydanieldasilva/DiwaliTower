@@ -4335,3 +4335,10 @@ img.u-pull-left {
     50%  { opacity: 1;  }
     100% { transform:translate(0,20px); opacity: 0; }
   }
+
+  .footerlogo {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 33vh;
+  }
